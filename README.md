@@ -1,3 +1,6 @@
+MovieMate is a personal movie recommender built using React.js, Node.js, MongoDB, Bootstrap, CSS, and HTML. This app enhances your movie-watching experience by offering features like a dynamic search tool, ability to add movies to a favorites list, and personalized film suggestions. Enjoy a tailored viewing guide with capabilities for user ratings and reviews, all within a responsive design optimized for all devices.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
